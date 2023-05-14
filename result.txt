@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Success this is
 
+=======
+Success
+>>>>>>> f517c170fed8e8ec47f3d0b4c8a5ee0d8e07f1f5
